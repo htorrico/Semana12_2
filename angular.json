@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "UploadsFiles"
+    }
+  },
+  "defaultProject": "UploadsFiles",
+  "cli": {
+    "analytics": "e198e595-07bf-43ff-80f7-bcf4cb5fccc7"
+  }
 }
